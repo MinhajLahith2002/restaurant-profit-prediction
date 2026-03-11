@@ -52,6 +52,7 @@ Key steps:
 ---
 
 ## 🔮 Predictions
+![prediction](images/prediction.png)
 - For population = **35,000**, predicted profit ≈ **$4,519.77**
 - For population = **70,000**, predicted profit ≈ **$45,342.45**
 
